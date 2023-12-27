@@ -1,0 +1,54 @@
+li > ul
+li > a
+li > a:hover
+li > a > span
+
+
+#
+text-decoration:none;
+margin
+padding
+float:left;   /* 왼쪽으로 플로팅 */ 
+  width:250px;   /*  너비 */ 
+  height:100px;   /* 높이 */
+  line-height:100px;  /* 세로로 중간에 맞춤 - 줄간격을 높이 값과 같게 */
+  padding-left:20px;  /* 왼쪽에 여백 */
+
+left:0;
+right:0;
+
+display:inline-block;  /* 탭들을 가로로 배치 */
+font-weight:600;   /* 글자 굵기 */
+
+#tabMenu input:checked + label {  /* 활성화된 탭 제목 스타일 */ 
+  color:#b00;
+  border:1px solid #ddd;
+  background-color: #eee;
+}
+
+
+font-family:'Merienda', cursive;
+overflow: hidden;  /* 넘치는 것은 감춤 */
+position:relative;
+position:absolute;
+opacity:0.6;   /* 불투명도를 조금 높임 */ 
+outline:0;  /* 아웃트라인 없앰 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
